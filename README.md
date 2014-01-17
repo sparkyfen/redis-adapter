@@ -56,7 +56,6 @@ adapter.save('john', 'john@email.com', 'secret', function(err, user) {
   //  signupTokenExpires: Wed Jan 15 2014 19:08:27 GMT+0100 (CET),
   //  failedLoginAttempts: 0,
   //  hash: '$2a$10$1IpbBVnhaNNAymV3HXO/z.632Knz27Od.oKpO1YoFnLlUjJMNcCEO',
-  //  _id: 52d6ce9b651b4d825351641f
   // }
 });
 ```
@@ -81,7 +80,6 @@ adapter.find('username', 'john', function(err, user) {
   //  signupTokenExpires: Wed Jan 15 2014 19:10:53 GMT+0100 (CET),
   //  failedLoginAttempts: 0,
   //  hash: '$2a$10$jFcGpdDKk/hqhP93VQGcce5zgoWVPGi7bQvpjupaOUKqIVBV.yI1e',
-  //  _id: 52d6cf2d0ed24a865323739d
   // }
 });
 ```
