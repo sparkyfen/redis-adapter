@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/zeMirco/lockit-mongodb-adapter"
+    "url": "https://github.com/brutalhonesty/lockit-redis-adapter"
   },
   "keywords": [
     "lockit",
