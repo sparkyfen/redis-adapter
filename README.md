@@ -1,6 +1,5 @@
-# Lockit Redis adapter
+# Redis adapter
 
-Redis adapter for [Lockit](https://github.com/zeMirco/lockit).
 
 ## Installation
 
